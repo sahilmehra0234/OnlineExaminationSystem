@@ -59,15 +59,6 @@ admin.
 
 
 
-IMPORTANT MODULE DESCRIPTION :
-
-• Admin (headdash.php) = Director of Institute
-• Teacher (dash.php) --- Professors of College
-• User (acccount.php) --- Students of the College
-• Home page (index.php) Security with password , even the admin cannot look at the 
-password , ensuring the trust of the users. A feedback system available for suggesting 
-improvements and registering complaints
-
 
 SOFTWARE AND HARDWARE REQUIREMENTS :
 
@@ -93,8 +84,7 @@ some cases of bugs, errors, security related problems or system faults.
 
 
 ACCOUNT CREDENTIALS :
-Institute Head (Username : head@gmail.com, Password : Qwert)
-Teacher (Username : teacher@gmail.com, Password : Qwert)
+Admin (Username : admin@admin.com, Password : admin)
 
 
 CONCLUSION :
