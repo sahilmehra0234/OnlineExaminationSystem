@@ -84,7 +84,14 @@ some cases of bugs, errors, security related problems or system faults.
 
 
 ACCOUNT CREDENTIALS :
-Admin (Username : admin@admin.com, Password : admin)
+
+Examine Portal : https://onlineexaminationsystem01.azurewebsites.net
+(Username : dave@gmail.com, Password : dave)
+
+Examine Portal : https://onlineexaminationsystem01.azurewebsites.net/adminpanel/admin
+(Username : admin@username, Password : admin@password)
+
+
 
 
 CONCLUSION :
